@@ -27,5 +27,5 @@ function thirdLargestInArray(array) {
     console.log("The third largest integer in", array, "is", third);
 }
 
-let array = [1, 4, 53, 31, 9, 11, 43];
+let array = [1, 2, 3, 4, 5];
 thirdLargestInArray(array);
